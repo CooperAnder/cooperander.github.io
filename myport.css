@@ -1,23 +1,23 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/4d803af63dd42f68dfec714f2a3fd8945ac16d84f51e991a22de3b0046d79c0779f94dcee591a19996a10e988e01efddd68683b9913fa1ab8603c6_1280-25.jpg");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/4d803af63dd42f68dfec714f2a3fd8945ac16d84f51e991a22de3b0046d79c0779f94dcee591a19996a10e988e01efddd68683b9913fa1ab8603c6_1280-34.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 487px;
+  min-height: 330px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 157px auto 0 0;
+  margin: 104px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 30px 314px 60px 0;
+  font-weight: 700;
+  margin: 11px 314px 60px 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 401px;
+    min-height: 402px;
   }
 
   .u-section-1 .u-text-2 {
@@ -27,7 +27,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 307px;
+    min-height: 330px;
   }
 
   .u-section-1 .u-text-2 {
@@ -37,21 +37,15 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 230px;
+    min-height: 307px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 145px;
+    min-height: 269px;
   }
-} .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/IMG_20220216_1216191.jpg");
-  background-position: 23.03% 41.34%;
-  background-size: 260%;
-}
-
-.u-section-2 .u-sheet-1 {
+}.u-section-2 .u-sheet-1 {
   min-height: 810px;
 }
 
@@ -191,11 +185,7 @@
     margin-right: initial;
     margin-left: initial;
   }
-} .u-section-3 {
-  background-image: none;
-}
-
-.u-section-3 .u-sheet-1 {
+}.u-section-3 .u-sheet-1 {
   min-height: 786px;
 }
 
@@ -206,8 +196,8 @@
 
 .u-section-3 .u-gallery-1 {
   height: 598px;
-  width: 503px;
-  margin: 33px auto 56px;
+  width: 426px;
+  margin: 24px auto 60px;
 }
 
 .u-section-3 .u-carousel-indicators-1 {
@@ -223,7 +213,7 @@
 }
 
 .u-section-3 .u-over-slide-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   padding: 30px;
 }
 
@@ -232,7 +222,7 @@
 }
 
 .u-section-3 .u-over-slide-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   padding: 30px;
 }
 
@@ -241,7 +231,7 @@
 }
 
 .u-section-3 .u-over-slide-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   padding: 30px;
 }
 
@@ -250,7 +240,7 @@
 }
 
 .u-section-3 .u-over-slide-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   padding: 30px;
 }
 
@@ -259,7 +249,7 @@
 }
 
 .u-section-3 .u-over-slide-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   padding: 30px;
 }
 
@@ -268,7 +258,7 @@
 }
 
 .u-section-3 .u-over-slide-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   padding: 30px;
 }
 
@@ -727,13 +717,13 @@
     margin-top: 637px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 642px;
+  min-height: 588px;
 }
 
 .u-section-6 .u-text-1 {
   font-size: 3rem;
   width: 199px;
-  margin: 48px auto 0;
+  margin: 1px auto 0;
 }
 
 .u-section-6 .u-list-1 {
@@ -758,7 +748,7 @@
 }
 
 .u-section-6 .u-text-2 {
-  margin: 20px auto 0 0;
+  margin: 20px 0 0;
 }
 
 .u-section-6 .u-btn-1 {
@@ -780,7 +770,7 @@
 }
 
 .u-section-6 .u-text-3 {
-  margin: 20px auto 0 0;
+  margin: 20px 0 0;
 }
 
 .u-section-6 .u-btn-2 {
@@ -802,7 +792,7 @@
 }
 
 .u-section-6 .u-text-4 {
-  margin: 20px auto 0 0;
+  margin: 20px 0 0;
 }
 
 .u-section-6 .u-btn-3 {
