@@ -38106,12 +38106,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 108px;
+  min-height: 130px;
 }
 
 .u-header .u-image-1 {
-  width: 212px;
-  height: 64px;
+  width: 246px;
+  height: 74px;
   margin: 22px auto 0 20px;
 }
 
@@ -38121,23 +38121,25 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -48px 35px 34px auto;
+  margin: -35px 35px 34px auto;
 }
 
 .u-header .u-nav-1 {
   font-size: 1rem;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
+  .u-header .u-image-1 {
+    width: 246px;
   }
 
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: -35px;
   }
 }
 
