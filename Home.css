@@ -125,6 +125,17 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 750px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 69px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-1 .u-image-3 {
     margin-top: 269px;
   }
@@ -136,7 +147,7 @@
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
     margin-top: 14px;
-    margin-bottom: 53px;
+    margin-bottom: 60px;
   }
 }
 
