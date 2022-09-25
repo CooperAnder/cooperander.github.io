@@ -38143,19 +38143,34 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 118px;
+  }
 
-
+  .u-header .u-menu-1 {
+    margin-top: -53px;
+    margin-right: 36px;
+    margin-bottom: 43px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    margin-top: -53px;
+    margin-right: 36px;
+  }
+}
  .u-footer {
   background-image: none;
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 86px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 49px auto;
+  margin: 32px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
