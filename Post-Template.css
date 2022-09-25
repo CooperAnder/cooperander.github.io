@@ -77,17 +77,22 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 656px;
+    min-height: 835px;
   }
 
   .u-section-1 .u-post-details-1 {
-    min-height: 571px;
-    margin-right: initial;
-    margin-left: initial;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .u-section-1 .u-image-1 {
-    height: 171px;
+    height: 486px;
+    margin-top: 0;
     margin-left: initial;
   }
 }
