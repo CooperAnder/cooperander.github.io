@@ -32,6 +32,7 @@
   margin-bottom: 0;
   margin-top: 20px;
   margin-left: 0;
+  font-size: 1.125rem;
 }
 
 @media (max-width: 1199px) {
@@ -74,5 +75,9 @@
 
   .u-section-1 .u-metadata-1 {
     margin-top: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
   }
 }
