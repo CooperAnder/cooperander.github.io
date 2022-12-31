@@ -51,7 +51,7 @@
   font-size: 0.875rem;
   letter-spacing: 2px;
   background-image: none;
-  border-style: none none solid;
+  border-style: solid;
   width: 107px;
   height: 24px;
   margin: 20px auto 0 0;
@@ -394,7 +394,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  height: 189px;
+  height: 210px;
   width: 429px;
   margin: 15px 23px 0;
 }
@@ -409,7 +409,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  height: 189px;
+  height: 210px;
   width: 429px;
   margin: 15px 23px 0;
 }
